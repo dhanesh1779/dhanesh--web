@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: white;
+
+}
+body{
+    background-image:url("file:///D:/dhanesh%20web%20desing/dhanesh.html/img/images.jpg") ;
+}
+h2{
+    color: white;
+}
+p{
+color: white;
+text-align: left;
+font-size: 25px;
+
+
+}
+a{
+    color: white;
+    font-size: 40px; 
+}
+table{
+    color: white;
+    text-align: right;
+    font-size: 20px;
+}
+img{
+    padding: 10px;
+}
+iframe{
+    padding: 5px;
+}
+video{
+    padding: 5px;
+}
